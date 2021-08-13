@@ -154,7 +154,7 @@ airflow scheduler
 airflow celery worker
 ```
 
-You go to your webserver URL \([http://YOUR\_IP:8080](http://10.113.200.130:8080/home)\) and run some tests on airflow. After you finish your tests follow the steps below to stop airflow on all nodes.
+Go to your webserver URL \([http://YOUR\_IP:8080](http://10.113.200.130:8080/home)\) and run some tests on airflow. After you finish your tests follow the steps below to stop airflow on all nodes.
 
 * [x] List PID's for airflow services
 
